@@ -21,3 +21,5 @@ public class LendoTeclado {
 		System.out.println("Os dados digitados foram: " +nome+ " " +idade+ " " +altura);
 	}
 }
+
+//teste
